@@ -1,2 +1,2 @@
 # Other
-Other necessary programs
+Other training programs
